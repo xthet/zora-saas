@@ -1,0 +1,22 @@
+[
+	{
+		"question": "What kind of sales data can this platform track?",
+		"answer": "Our platform integrates with your CRM, e-commerce tools, and spreadsheets to track key sales metrics like conversion rates, lead response times, pipeline velocity, customer acquisition cost, and rep performance. "
+	},
+	{
+		"question": "How long does it take to start seeing insights after integration?",
+		"answer": "Most users start seeing actionable insights within the first 24–48 hours after setup."
+	},
+	{
+		"question": "Is this suitable for early-stage startups or only larger teams?",
+		"answer": "We designed the system to scale — it's lightweight enough for startups and robust enough for high-volume sales teams. Whether you're managing 50 leads or 5,000, the dashboards and alerts adapt to your scale."
+	},
+	{
+		"question": "Can I export reports or share them with my team?",
+		"answer": "Yes — every dashboard can be exported as a PDF or CSV, and shared via public or team-only links."
+	},
+	{
+		"question": "Can I add my own data?",
+		"answer": "Yes, you can add your own data to the platform using the API."
+	}
+]

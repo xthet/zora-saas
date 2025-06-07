@@ -1,0 +1,72 @@
+[
+	{
+		"image": "/images/r2.jpg",
+		"name": "Alexis Carr",
+		"position": "CEO at Mannington",
+		"rating": 5,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r1.jpg",
+		"name": "Tim Duncan",
+		"position": "CEO at Mannington",
+		"rating": 5,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r3.jpg",
+		"name": "Morris Blake",
+		"position": "CEO at Mannington",
+		"rating": 5,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r4.jpg",
+		"name": "Mia Radcliffe",
+		"position": "CEO at Mannington",
+		"rating": 5,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r5.jpg",
+		"name": "Jerry Morrison",
+		"position": "CEO at Mannington",
+		"rating": 5,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r2.jpg",
+		"name": "Alexis Carr",
+		"position": "CEO at Mannington",
+		"rating": 4,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r1.jpg",
+		"name": "Tim Duncan",
+		"position": "CEO at Mannington",
+		"rating": 4,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r3.jpg",
+		"name": "Morris Blake",
+		"position": "CEO at Mannington",
+		"rating": 4,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r4.jpg",
+		"name": "Mia Radcliffe",
+		"position": "CEO at Mannington",
+		"rating": 4,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	},
+	{
+		"image": "/images/r5.jpg",
+		"name": "Jerry Morrison",
+		"position": "CEO at Mannington",
+		"rating": 4,
+		"body": "It was a pleasure working with the Zora team. Their product exceeded our expectations, and we look forward to working with them again."
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"title": "silver",
+		"price": "50",
+		"features": [
+			"5 users included",
+			"Basic Support",
+			"Help center access",
+			"Email support",
+			"No Ads Watermark",
+			"5 GB RAM Storage"
+		],
+		"buttonText": "Get Started",
+		"buttonLink": "#",
+		"popular": false
+	},
+	{
+		"title": "gold",
+		"price": "100",
+		"features": [
+			"5 users included",
+			"Basic Support",
+			"Help center access",
+			"Email support",
+			"No Ads Watermark",
+			"5 GB RAM Storage"
+		],
+		"buttonText": "Get started",
+		"buttonLink": "#",
+		"popular": true
+	},
+	{
+		"title": "platinum",
+		"price": "150",
+		"features": [
+			"5 users included",
+			"Basic Support",
+			"Help center access",
+			"Email support",
+			"No Ads Watermark",
+			"5 GB RAM Storage"
+		],
+		"buttonText": "Get started",
+		"buttonLink": "#",
+		"popular": false
+	}
+]
