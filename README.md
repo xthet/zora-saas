@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Zora – SAAS LANDING PAGE TEMPLATE
 
-## Getting Started
+A sleek, responsive Next.js template to showcase SaaS case studies and product launches. Ideal for indie hackers, SaaS founders, or dev agencies.
 
-First, run the development server:
+Repo: [https://github.com/xthet/zora-saas.git](https://github.com/xthet/zora-saas.git)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/xthet/zora-saas.git
+cd zora-saas
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+# or
+pnpm install
+```
+
+### 3. Set Up Environment Variables
+
+Create a `.env.local` file at the root of the project and copy the structure from `.env.example`:
+
+```bash
+cp .env.example .env.local
+```
+
+> ⚠️ Make sure to replace placeholder values with your actual credentials.
+
+### 4. Run the Dev Server
 
 ```bash
 npm run dev
 # or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit [http://localhost:3000](http://localhost:3000) to view the project in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📁 Folder Structure
 
-## Learn More
+```
+app/                  → App directory (Next.js 15+ App Router)
+components/           → Reusable UI components
+public/               → Static assets
+styles/               → Global and module styles
+env.example           → Example environment config
+README.md             → This file
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📌 Key Notes
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Uses **App Router** (`/app`) – no support for `pages/` directory.
+- Customize meta tags in `app/layout.tsx` using the `metadata` object.
+- Add your Open Graph image in `public/og-image.png`.
+- Includes a responsive layout with minimal styling and easy-to-swap content blocks.
+- Smooth scrolling powered by [Lenis](https://github.com/studio-freight/lenis).
+- Animations handled with [GSAP](https://greensock.com/gsap/).
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠 Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js 15+](https://nextjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [GSAP](https://greensock.com/gsap/) for animations
+- [Lenis](https://github.com/studio-freight/lenis) for smooth scrolling
+
+---
+
+## 🙏 Credits
+
+Made with ❤️ by [Tame Hex Technologies](https://www.tht.agency). Feel free to share and remix!
+
+---
+
+## 📣 License
+
+This template is open source and free to use for personal or commercial projects.

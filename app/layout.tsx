@@ -3,6 +3,7 @@ import { Geist, Geist_Mono, Instrument_Serif } from "next/font/google"
 import "./globals.css"
 import localFont from "next/font/local"
 import Layout from "@/components/layouts/root_layout"
+import ReactLenis from "lenis/react"
 
 const satoshi = localFont({
 	src: [
@@ -71,7 +72,9 @@ export default function RootLayout({
 			<body
 				className={`${satoshi.variable} ${instrumentSerif.variable} antialiased`}
 			>
-				<Layout>{children}</Layout>
+				<ReactLenis root>
+					<Layout>{children}</Layout>
+				</ReactLenis>
 			</body>
 		</html>
 	)
